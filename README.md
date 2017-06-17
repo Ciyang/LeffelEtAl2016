@@ -95,6 +95,5 @@ relative adjectives, because they share the same mechanism.
     comparison class) is equally accessible for relative and absolute adjectives:
     straight lines, closed/flat triangles are very stereotypical.
 
-- **HP**: Absolute adjectives should be more difficult to process when it comes
- to imprecision, because an additional pragmatic mechanism is needed.
-  + Hidden assumption: a serial processing model, in which
+- **HP**: Absolute adjectives should be different from relative adjectives,
+because imprecision and vagueness are different mechanisms
